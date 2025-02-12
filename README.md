@@ -1,6 +1,5 @@
 # CodSoft_Task2
 Movie Rating Prediction
-# Movie Rating Prediction
 
 ## Project Overview
 This project aims to build a **Movie Rating Prediction Model** that estimates a movie's rating based on features such as **genre, director, and actors**. The model applies **regression techniques** to analyze historical movie data and predict ratings given by users or critics.
